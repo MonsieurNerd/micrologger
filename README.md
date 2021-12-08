@@ -17,15 +17,22 @@ There is two parts for this project
 ### Server side
 
 Should be based on WebSocket and Node.js.
+
 The file manipulation should be done on this side !
+
 Server should watch a log file (passed as params) 
 
 ### Client side
 
 The UI must use VueJS version 3. https://v3.vuejs.org/
+
 For the style you have the plenty choice. 
+
 Keep in mind that the global look & feel of the app will be a strong point of evaluation.
 
 ## Notes
 Please write the code in ES6 or TS 
+
 You can write some unit test using [JEST](https://jestjs.io/) if you have time...
+
+You must provide a README file to explain how your app is built
