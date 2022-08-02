@@ -1,5 +1,6 @@
 # Micro Log
-
+**iXblue Technical Test**
+<br>
 ## The goal
 
 The idea is to provide a live tail of a log file, with a search functionality by regex.
@@ -36,3 +37,5 @@ Please write the code in modern JavaScript or TypeScript.
 You can write some unit tests and/or front-end tests (with Cypress) if you have time...
 
 You must provide a README file to explain how your app is built.
+
+You can explain in README what could have been done with more time.
